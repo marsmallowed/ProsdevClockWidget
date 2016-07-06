@@ -2,9 +2,10 @@ package test.app.core;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotSame;
-import main.app.core.ClockWidgetApp;
 
 import org.junit.Test;
+
+import main.app.core.controller.ClockWidgetApp;
 
 public class ClockWidgetAppTest {
 	@Test
